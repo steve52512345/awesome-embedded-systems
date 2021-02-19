@@ -243,6 +243,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Learn VHDL Design for use in FPGA and ASIC Digital Systems (udemy)](https://www.udemy.com/vhdl-design-and-modeling-of-digital-systems/)
 - [Learn VHDL, ISE and FPGA by Designing a basic Home Alarm (udemy)](https://www.udemy.com/getting-started-with-fpga-ise-and-vhdl/)
 - [The Embedded Pre-Interview! (udemy)](https://www.udemy.com/the-embedded-pre-interview/) - not free - Evaluate your Embedded Systems knowledge, in just 100 minutes, for any entry level job
+- [Learn Security governance, Security models, etc in this Cyber Security course and get certified (Intellipaat)](https://intellipaat.com/cyber-security-course-certification/)
 
 ## License
 
